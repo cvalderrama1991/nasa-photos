@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nasa-photos/static/css/main.cdd8d791.css",
+    "main.js": "/nasa-photos/static/js/main.a83d3ccf.js",
+    "index.html": "/nasa-photos/index.html",
+    "main.cdd8d791.css.map": "/nasa-photos/static/css/main.cdd8d791.css.map",
+    "main.a83d3ccf.js.map": "/nasa-photos/static/js/main.a83d3ccf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdd8d791.css",
+    "static/js/main.a83d3ccf.js"
+  ]
+}
